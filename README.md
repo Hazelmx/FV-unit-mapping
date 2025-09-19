@@ -1,11 +1,12 @@
 # Unit mapping intuition
 No matter we use automation or not, we need to manually map the unit of new product classified to FV.
 Actually, for LB, OZ it is easy to get the portion by function because we already have UNITS_WEIGHT in transaction files.
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/d9386291-ca32-4826-a78d-ae911b199056" />
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/2abd5856-6012-422f-9478-b65711e99880" />
+<img width="610" height="300" alt="image" src="https://github.com/user-attachments/assets/1743e5c9-d1d3-40b8-a2b3-02af52572a18" />
+
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/2abd5856-6012-422f-9478-b65711e99880" />
+<img width="527" height="219" alt="Screenshot 2025-09-18 at 23 33 13" src="https://github.com/user-attachments/assets/9eea9b6d-676f-4b68-8b10-a64068abc52c" />
 
 
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/52d188d5-7c1b-4b60-83f0-4233c284ca93" />
 
 
 
