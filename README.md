@@ -1,4 +1,16 @@
-# FV-unit-mapping
+# Unit mapping intuition
+No matter we use automation or not, we need to manually map the unit of new product classified to FV.
+Actually, for LB, OZ it is easy to get the portion by function because we already have UNITS_WEIGHT in transaction files.
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/d9386291-ca32-4826-a78d-ae911b199056" />
+<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/2abd5856-6012-422f-9478-b65711e99880" />
+
+
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/52d188d5-7c1b-4b60-83f0-4233c284ca93" />
+
+
+
+
+# Workflow
 Step 1(automation)- Mapping unit from the old transaction files
 In put:  
 1.	transaction_mapped.xlsx (newly mapped transaction records with dummies)
@@ -7,7 +19,7 @@ In put:
 
 Output:
 FV_unit.xlsx 
- <img width="468" height="86" alt="image" src="https://github.com/user-attachments/assets/f17a29f1-dba4-4e36-97f8-5114cef5d69d" />
+ <img width="800" height="150" alt="image" src="https://github.com/user-attachments/assets/f17a29f1-dba4-4e36-97f8-5114cef5d69d" />
 
 Column PRODUCT_DESCRIPTION show the list of lists of products description of FV_dummy1=1
 Column UNIT_OF_MEASURE show the corresponding unit of measure of all products description
